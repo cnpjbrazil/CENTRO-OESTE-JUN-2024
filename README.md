@@ -1,5 +1,13 @@
 # Dados Públicos do CNPJ da Receita Federal
 **Versão: 10/06/2024**
+---
+| Região         | Tamanho   |
+|----------------|-----------|
+| [Centro-Oeste](https://github.com/cnpjbrazil/CENTRO-OESTE-JUN-2024/)   | 2.02 GB   |
+| [Nordeste](https://github.com/cnpjbrazil/NORDESTE-JUN-2024/)       | 4.07 GB   |
+| [Norte](https://github.com/cnpjbrazil/NORTE-JUN-2024/)          | 1.88 GB   |
+| [Sudeste](https://github.com/cnpjbrazil/SUDESTE-JUN-2024/)         | 11.5 GB   |
+| [Sul](https://github.com/cnpjbrazil/SUL-JUN-2024/)             | 4.38 GB   |
 
 ---
 
