@@ -111,7 +111,7 @@ Outros exemplos incluem:
 Os dados do CNPJ ajudam você a entender melhor o mercado e a concorrência. Você pode ver, por exemplo:
 
 - **Quais são as empresas que estão crescendo** no setor de cosméticos, sabendo onde estão e o que fazem.
-- **Quantas padarias existem na sua cidade** e como você pode oferecer algo diferente e melhor para se destacar.
+- **Quantas padarias, oficinas ou assistências técnicas existem na sua cidade** e como você pode oferecer algo diferente e melhor para se destacar.
 - **Que tipo de produtos são mais comprados** por supermercados na sua região, ajudando você a focar nos itens certos.
 
 ---
